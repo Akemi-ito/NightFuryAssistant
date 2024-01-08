@@ -1,16 +1,16 @@
-List des commande : 
+# NightFuryAssistant README
 
-!last - Affiche la dernière commande utilisée.
-!history - Affiche l'historique des commandes de l'utilisateur.
-!clear_history - Vide l'historique des commandes de l'utilisateur.
-!dance - ça danse !!
-!ban - Bannit un utilisateur du serveur.
-!kick - Expulse un utilisateur du serveur.
-!shutdown - Arrête le bot.
+## List des commandes:
 
- Attention il y a aussi des mots clé qui renvoie a des gif secret a vous de les trouver ^^ :
+- `!last` - Affiche la dernière commande utilisée.
+- `!history` - Affiche l'historique des commandes de l'utilisateur.
+- `!clear_history` - Vide l'historique des commandes de l'utilisateur.
+- `!dance` - Ça danse !!
+- `!ban` - Bannit un utilisateur du serveur.
+- `!kick` - Expulse un utilisateur du serveur.
+- `!shutdown` - Arrête le bot.
 
- doit contenir : "Sniper" 
- doit commencer part  : "hello" 
- doit contenir : "faim"
+## Mots clés secrets:
 
+- Utilisez le mot-clé "Sniper" ou "Faim"  pour débloquer un gif secret.
+- Commencez votre message avec "hello" pour découvrir une surprise.
