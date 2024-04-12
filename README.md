@@ -94,5 +94,3 @@ Utilisez le mot-clé "Faim" pour débloquer un autre gif secret.
 ### `hello`
 
 Commencez votre message avec "hello" pour découvrir une surprise.
-
-<p align="right">(<a href="#readme-top">retour en haut de la page</a>)</p>
